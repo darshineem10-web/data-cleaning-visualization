@@ -79,23 +79,15 @@ The project includes:
 These visualizations help in understanding the distribution of employees and salary-related patterns in the cleaned dataset.
 
 ## Project Structure
-
-```text
-data-cleaning-visualization/
-│
 ├── README.md
 ├── Cleaning data.ipynb
 ├── sample_data.csv
 └── cleaned_data.csv
 
 ## How to Run
-
-Clone or download this repository.
-Open Cleaning data.ipynb in Jupyter Notebook.
-Make sure sample_data.csv is in the same folder as the notebook.
-Run the notebook cells in order.
-The cleaned dataset will be generated as cleaned_data.csv.
-The visualizations will be displayed in the notebook.
+1. Download or clone the repository.
+2. Open Cleaning data.ipynb in Jupyter Notebook.
+3. Run the cells in order.
 
 ## Conclusion
-This project demonstrates a basic data cleaning and preprocessing workflow using Python, Pandas, and Matplotlib. The cleaned dataset is structured and prepared for further analysis and visualization.
+This project demonstrates a basic data cleaning and preprocessing workflow...
