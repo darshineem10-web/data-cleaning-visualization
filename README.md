@@ -1,8 +1,7 @@
-# Thiranex-project-1
-Data Cleaning and Visualization
+## Data Cleaning and Visualization
 This project focuses on cleaning, preprocessing, and visualizing a sample dataset using Python and Pandas.
 The dataset contains information about employees, including their names, ages, salaries, joining dates, and departments. The project demonstrates basic data cleaning techniques and data visualization to prepare the dataset for further analysis.
-Objectives
+## Objectives
 
 The main objectives of this project are:
 
@@ -15,14 +14,14 @@ The main objectives of this project are:
 - Encode categorical data
 - Create visualizations to understand the cleaned data
 
-- Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
 
-- Dataset
+## Dataset
 
 The dataset contains employee-related information with the following columns:
 
@@ -35,7 +34,7 @@ Department| Department of the employee
 
 The original dataset is included in the "data" folder.
 
-Data Cleaning Process
+## Data Cleaning Process
 
 The following data cleaning steps were performed:
 
@@ -65,8 +64,8 @@ The following data cleaning steps were performed:
 6. Categorical Encoding
    
    - The "Department" column was converted into numerical values using one-hot encoding.
-  
-   - Project Structure
+
+## Project Structure
 
 data-cleaning-visualization/
 │
@@ -79,7 +78,7 @@ data-cleaning-visualization/
 │
 └── visualizations/  
 
-How to Run
+## How to Run
 
 1. Clone or download this repository.
 2. Open "Cleaning_Data.ipynb" using Jupyter Notebook or JupyterLab.
@@ -87,7 +86,7 @@ How to Run
 4. Run the notebook cells in order.
 5. The cleaned dataset will be generated as "cleaned_data.csv".
 
-6. Conclusion
+## Conclusion
 
 This project demonstrates the basic workflow of cleaning and preprocessing real-world-style data using Python. Missing values, duplicates, inconsistent text, outliers, dates, and categorical variables were handled before creating visualizations from the cleaned dataset.
 
